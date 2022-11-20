@@ -1,0 +1,13 @@
+
+
+Github repository- https://github.com/Likhith329/nodejs-filesystem.git
+
+API endpoints - /creatfile - to create the file named 'nodejs-filesystem.txt' inside the folder 'MyNewFolder' in the current directory.
+     
+                /readfile  - to read the file 'nodejs-filesystem.txt'
+
+                /deletefile -to delete the respective file
+
+                /readfolder -to read the folder of 'nodejs-filesystem.txt'
+
+Heroku deployed URL- https://nodejsfilesystemapp.herokuapp.com/
